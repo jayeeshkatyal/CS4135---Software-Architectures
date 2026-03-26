@@ -1,0 +1,24 @@
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      routes:
+        - id: user-service
+          uri: lb://user-service
+          predicates:
+            - Path=/api/users/**, /api/auth/**
+        - id: catalogue-service
+          uri: lb://catalogue-service
+          predicates:
+            - Path=/api/books/**, /api/categories/**
+        - id: borrowing-service
+          uri: lb://borrowing-service
+          predicates:
+            - Path=/api/borrow/**, /api/holds/**
+        - id: fine-service
+          uri: lb://fine-service
+          predicates:
+            - Path=/api/fines/**

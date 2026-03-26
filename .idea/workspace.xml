@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15a5313-75cb-4937-a5db-aac3b26bafde" name="Changes" comment="" />
+    <list default="true" id="c15a5313-75cb-4937-a5db-aac3b26bafde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/e-library/borrowing-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e-library/catalogue-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e-library/fine-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/api-gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/api-gateway/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/api-gateway/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/api-gateway/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/target/e-library-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/PasswordHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/PasswordHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/UserAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/UserAccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/UserAccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/UserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/UserProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e-library/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/e-library/user-service/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +69,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "User-Service",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
