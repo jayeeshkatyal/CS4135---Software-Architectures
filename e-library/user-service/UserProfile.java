@@ -2,7 +2,7 @@
 public class UserProfile {
     private String name;
     private String contactInfo;
-    private String borrowingStats; // simplified
+    private String borrowingStats;
 
-    // getters, setters, constructors
+    //TODO: getters, setters, constructors
 }
